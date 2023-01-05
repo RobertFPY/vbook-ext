@@ -1,7 +1,7 @@
 {
     "metadata": {
         "name": "STV Limited",
-        "author": "Nhocconsr",
+        "author": "RobertFPY",
         "version": 9,
         "source": "https://sangtacviet.pro",
         "regexp": "(www.)?sangtacviet.(info|com|xyz)/truyen/([a-zA-Z0-9])+/\\d+/\\d+/?$",
