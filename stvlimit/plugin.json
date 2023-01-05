@@ -3,7 +3,7 @@
         "name": "STV Limited",
         "author": "Nhocconsr",
         "version": 9,
-        "source": "https://sangtacviet.info",
+        "source": "https://sangtacviet.pro",
         "regexp": "(www.)?sangtacviet.(info|com|xyz)/truyen/([a-zA-Z0-9])+/\\d+/\\d+/?$",
         "description": "Updated ^^!. Fix linh tinh. Site lol",
         "locale": "vi-VN",
